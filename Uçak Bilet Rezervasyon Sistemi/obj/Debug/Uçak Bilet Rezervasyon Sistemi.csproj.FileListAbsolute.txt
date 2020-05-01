@@ -1,0 +1,22 @@
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.exe.config
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.exe
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.csproj.GenerateResource.Cache
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.exe
+C:\Users\erdo_\Desktop\c# uygulamalar\merhaba dünya\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.exe.config
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.exe
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.exe
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.pdb
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\erdo_\OneDrive\Masaüstü\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.csproj.GenerateResource.Cache
+D:\Ders Programı\S1-D7-C#FORM\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\bin\Debug\Uçak Bilet Rezervasyon Sistemi.exe.config
+D:\Ders Programı\S1-D7-C#FORM\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.exe
+D:\Ders Programı\S1-D7-C#FORM\Uçak Bilet Rezervasyon Sistemi\Uçak Bilet Rezervasyon Sistemi\obj\Debug\Uçak Bilet Rezervasyon Sistemi.pdb
